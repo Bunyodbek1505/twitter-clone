@@ -1,0 +1,5 @@
+// Modal create qilish  =>
+// 1) dialog.tsx => dialogni install qilganda qoshildi, ozgartirldi.
+// 2) modal.tsx yaratildi(madal olindi)
+// 3) useRegisterModal.ts orqali modal open, close holati belgilandi (global state context qilindi, bu contextdan registorModal.tsx da ishlatyabmiz, keyin index.tsx da useCalback qilib ishlatildi. ).
+// 4) registorModal.tsx modal ni ozimizga moslashtrildi.
